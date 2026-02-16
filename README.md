@@ -48,11 +48,4 @@ The goal is to compare **Linear Regression**, **Polynomial Regression (with Ridg
    - Scatter plots of actual vs predicted scores for Linear and Polynomial Regression
    - Feature importance plot from Random Forest model
 
----
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
